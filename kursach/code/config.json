@@ -1,0 +1,16 @@
+{
+  "imap_host": "imap.mail.ru",
+  "imap_port": 993,
+  "imap_user": "sample@mail.ru",
+  "imap_password": "samplepassword",
+  "imap_folder": "INBOX",
+
+  "yougile_login_url": "https://yougile.com",
+  "yougile_email": "sampleyougile@yandex.ru",
+  "yougile_password": "samplepasswordyougile",
+
+  "board_url": "https://en.yougile.com/team/f2b0aac40fd2/robot",
+  "column_name": "New column",
+
+  "poll_seconds": 30
+}
